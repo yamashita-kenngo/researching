@@ -1,6 +1,6 @@
 module ent-example
 
-go 1.18
+go 1.19
 
 require (
 	ariga.io/atlas v0.7.2-0.20220927111110-867ee0cca56a // indirect
